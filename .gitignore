@@ -1,0 +1,7 @@
+.exercism/
+.stack-work/
+test/
+HELP.md
+HINTS.md
+*.cabal
+*.yaml.lock
