@@ -11,3 +11,12 @@ from others' solutions after I've solved it myself.
 
 If you're learning Haskell, I recommend you sign up and try the exercises
 yourself first before relying on these solutions.
+
+1. [Hello World](hello-world/src/HelloWorld.hs)
+2. [Lucian's Luscious Lasagna](lucians-luscious-lasagna/src/LuciansLusciousLasagna.hs)
+3. [Leap](leap/src/LeapYear.hs)
+4. [Space Age](space-age/src/SpaceAge.hs)
+5. [Pangram](pangram/src/Pangram.hs)
+6. [Bob](bob/src/Bob.hs)
+7. [Collatz Conjecture](collatz-conjecture/src/CollatzConjecture.hs)
+8. [Rna Transcription](rna-transcription/src/DNA.hs)
