@@ -20,3 +20,4 @@ yourself first before relying on these solutions.
 6. [Bob](bob/src/Bob.hs)
 7. [Collatz Conjecture](collatz-conjecture/src/CollatzConjecture.hs)
 8. [Rna Transcription](rna-transcription/src/DNA.hs)
+9. [Nucleotide Count](nucleotide-count/src/DNA.hs)
