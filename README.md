@@ -22,3 +22,6 @@ yourself first before relying on these solutions.
 8. [Rna Transcription](rna-transcription/src/DNA.hs)
 9. [Nucleotide Count](nucleotide-count/src/DNA.hs)
 10. [Sum of Multiples](sum-of-multiples/src/SumOfMultiples.hs)
+11. [Grains](grains/src/Grains.hs)
+12. [Acronym](acronym/src/Acronym.hs)
+
